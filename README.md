@@ -1,4 +1,5 @@
 # AI_ML-workshop-GNIT_Ardent
+<img width="576" height="497" alt="image" src="https://github.com/user-attachments/assets/1b5f3c99-fc92-49e9-a6e1-0940be3cb3c5" />
 
 # 🐍 Python Projects Portfolio
 
